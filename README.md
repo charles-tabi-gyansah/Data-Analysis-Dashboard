@@ -41,6 +41,8 @@ The dataset contains customer demographic and lifestyle information such as age,
 
 
 ## Dasboard
+<a href = "https://github.com/charles-tabi-gyansah/Data-Analysis-Dashboard/blob/main/bike%20purchase%20insight%20Screenshot.png" >Dashboard</a>
+
 
 ## Key Skills Demonstrated
 - Data cleaning in Excel
