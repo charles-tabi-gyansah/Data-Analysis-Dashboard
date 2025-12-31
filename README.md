@@ -54,13 +54,14 @@ bike-purchase-analysis-excel/
 - Excel Project Dataset.xlsx
 - README.md
 - bike purchase insight Screenshot.png
-
-## Insights Summary
-Customers with mid-to-high income levels and shorter commute distances showed higher likelihood of purchasing bikes. Age group and region also played a significant role in purchasing decisions.
-
+  
 
 ## Dasboard
 <img width="1005" height="734" alt="bike purchase insight Screenshot" src="https://github.com/user-attachments/assets/de5bc134-fd3d-47dc-95a3-7f1f461ca4cb" />
+
+
+## Insights Summary
+Customers with mid-to-high income levels and shorter commute distances showed higher likelihood of purchasing bikes. Age group and region also played a significant role in purchasing decisions.
 
 
 
