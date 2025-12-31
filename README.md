@@ -4,6 +4,10 @@
 This project analyzes customer bike purchasing behavior using Microsoft Excel. The entire workflow data cleaning, analysis, and visualization was performed exclusively in Excel to demonstrate strong spreadsheet-based analytical skills.
 
 
+## Dataset used
+<a href = "https://github.com/charles-tabi-gyansah/Data-Analysis-Dashboard/blob/main/Bike_Purchase%20Analysis.xlsx" >Dataset</a>
+
+
 ## Tools & Technologies
 - Microsoft Excel
 - Pivot Tables
@@ -47,15 +51,15 @@ The dataset contains customer demographic and lifestyle information such as age,
 ## Repository Structure
 bike-purchase-analysis-excel/
 - Excel Project Dataset.xlsx
-- Dashboard.xlsx
 - README.md
+- 
 
 ## Insights Summary
 Customers with mid-to-high income levels and shorter commute distances showed higher likelihood of purchasing bikes. Age group and region also played a significant role in purchasing decisions.
 
 
 
-Author
+## Author
 Charles tabi gyansah
 Aspiring Data Analyst | Excel • Data Visualization
 
