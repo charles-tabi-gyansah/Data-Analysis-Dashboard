@@ -38,10 +38,7 @@ The dataset contains customer demographic and lifestyle information such as age,
 - Bar charts showing bike purchases by gender and region
 - Line and column charts for income and age trends
 - Interactive dashboard using Pivot Charts and slicers
-
-
-## Dasboard
-<a href = "https://github.com/charles-tabi-gyansah/Data-Analysis-Dashboard/blob/main/bike%20purchase%20insight%20Screenshot.png" >Dashboard</a>
+- <a href = "https://github.com/charles-tabi-gyansah/Data-Analysis-Dashboard/blob/main/bike%20purchase%20insight%20Screenshot.png" >Dashboard interative</a>
 
 
 ## Key Skills Demonstrated
@@ -60,6 +57,10 @@ bike-purchase-analysis-excel/
 
 ## Insights Summary
 Customers with mid-to-high income levels and shorter commute distances showed higher likelihood of purchasing bikes. Age group and region also played a significant role in purchasing decisions.
+
+
+## Dasboard
+<img width="1005" height="734" alt="bike purchase insight Screenshot" src="https://github.com/user-attachments/assets/de5bc134-fd3d-47dc-95a3-7f1f461ca4cb" />
 
 
 
