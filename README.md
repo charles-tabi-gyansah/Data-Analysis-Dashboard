@@ -40,6 +40,8 @@ The dataset contains customer demographic and lifestyle information such as age,
 - Interactive dashboard using Pivot Charts and slicers
 
 
+## Dasboard
+
 ## Key Skills Demonstrated
 - Data cleaning in Excel
 - Exploratory data analysis (EDA)
