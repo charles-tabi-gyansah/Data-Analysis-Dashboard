@@ -52,7 +52,7 @@ The dataset contains customer demographic and lifestyle information such as age,
 bike-purchase-analysis-excel/
 - Excel Project Dataset.xlsx
 - README.md
-- 
+- bike purchase insight Screenshot.png
 
 ## Insights Summary
 Customers with mid-to-high income levels and shorter commute distances showed higher likelihood of purchasing bikes. Age group and region also played a significant role in purchasing decisions.
